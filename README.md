@@ -17,4 +17,4 @@ Must have features:
 Nice to have features:
   - Be able to favorite/save recipes for later
 
-All of the must have features have been implemented and didn't have enough time to implement a way to favorite recipes.
+All of the must have features have been implemented but I didn't have enough time to implement a way to favorite recipes.
