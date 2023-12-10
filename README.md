@@ -5,7 +5,7 @@
 |      920285961       |       Eliza Ouyang       | 
 
 ## Project Proposal
-I decided to create a recipe app for my final project. Learning to cook while having little knowledge can be daunting, so I thought that a recipe app would help those who are learning to cook or enjoy cooking.
+I decided to create a recipe app for my final project using SwiftUI. Learning to cook while having little knowledge can be daunting, so I thought that a recipe app would help those who are learning to cook or enjoy cooking.
 
 ## Features
 Must have features:
@@ -17,4 +17,4 @@ Must have features:
 Nice to have features:
   - Be able to favorite/save recipes for later
 
-All of the must have features have been implemented but I didn't have enough time to implement a way to favorite recipes.
+All of the must have features have been implemented but I didn't have enough time to implement a way to favorite recipes. Part of this project was done following a [tutorial](https://www.youtube.com/watch?v=uSanD_pFwis).
